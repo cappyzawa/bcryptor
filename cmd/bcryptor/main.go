@@ -1,4 +1,4 @@
-package bcryptor
+package main
 
 import (
 	"bufio"
