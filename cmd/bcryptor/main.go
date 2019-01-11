@@ -3,9 +3,10 @@ package bcryptor
 import (
 	"bufio"
 	"fmt"
-	"golang.org/x/crypto/bcrypt"
 	"io"
 	"os"
+
+	"golang.org/x/crypto/bcrypt"
 )
 
 func input(r io.Reader) <-chan string {
