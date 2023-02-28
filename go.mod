@@ -1,3 +1,3 @@
 module github.com/cappyzawa/bcryptor
 
-require golang.org/x/crypto v0.1.0
+require golang.org/x/crypto v0.6.0
